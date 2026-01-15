@@ -1,8 +1,8 @@
 # Olá, eu sou o Luis Felipe! 👋 
 
-### 🚀 Especialista em Gestão & Estudante de Desenvolvimento de Sistemas
-**Unindo a expertise em negócios com a Engenharia de Software**
-*Atualmente focado no **Bootcamp Santander** | Técnico em Desenvolvimento de Sistemas*
+### 🚀 Especialista em Gestão & Estudante de Desenvolvimento de Sistemas / DevOps
+**Unindo a expertise em negócios com a Analise de dados financeiros**
+*Atualmente focado no **Bootcamp Santander** | Técnico em Desenvolvimento de Sistemas* / *MBA em gestão financeira*
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 🎯 Sobre Mim
 - 🎓 **Formação:** Graduado em Administração e Especialista em Gestão Financeira.
-- 💻 **Jornada Atual:** Técnico em Desenvolvimento de Sistemas (Bootcamp Santander).
+- 💻 **Jornada Atual:** Técnico em Desenvolvimento de Sistemas / DevOps(Bootcamp Santander).
 - 🔭 **Foco de Projetos:** FinOps, Automação e Análise de Custos em Nuvem.
 - ⚡ **Vibe Coding:** Utilizando IA para construir soluções arquiteturais de alto nível com agilidade.
 
@@ -42,6 +42,8 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+
 
 ---# Hi there, I'm Luis Felipe! 👋 
 
