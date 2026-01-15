@@ -2,7 +2,6 @@
 
 ### 🚀 Management Specialist & FinOps Coder
 **Transitioning from Business Management to Data Science / IT**
-*Currently focusing on the UNIVESP Computer Science path.*
 
 ---
 
