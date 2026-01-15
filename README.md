@@ -17,9 +17,11 @@
 
 ---
 
+---
+
 ### 📊 Atividade no GitHub
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fefeluis91-crypto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fefeluis91-crypto&theme=tokyonight&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -28,6 +30,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Lab&fontSize=70" />
 </div>
 
+---
 ---
 
 ### 🎯 Sobre Mim
@@ -68,9 +71,11 @@
 
 ---
 
-### 📊 GitHub Activities
+---
+
+### 📊 Atividade no GitHub
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=fefeluis91-crypto&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fefeluis91-crypto&theme=tokyonight&area=true&hide_border=true" />
 </div>
 
 <br/>
@@ -78,6 +83,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Lab&fontSize=70" />
 </div>
+
+---
 
 ---
 
